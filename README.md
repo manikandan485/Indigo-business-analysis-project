@@ -16,8 +16,5 @@ To study revenue, expenses, debt, and loss trends over the last 5 years.
 - Loss period analysis
 - Debt performance
 
-## Dashboard Preview
-(Add screenshot images here)
-
 ## Conclusion
 This project helps understand how IndiGo managed growth, debt, and profitability.
