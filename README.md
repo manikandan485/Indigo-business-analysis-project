@@ -1,2 +1,23 @@
-# Indigo-business-analysis-project
-A business analysis project on IndiGo Airlines focusing on revenue trends, expenses, debt performance, profitability, and operational insights using Excel, SQL, and Power BI.
+# IndiGo Business Analysis Project
+
+This project analyzes the financial and operational performance of IndiGo Airlines.
+
+## Objective
+To study revenue, expenses, debt, and loss trends over the last 5 years.
+
+## Tools Used
+- Excel
+- SQL
+- Power BI
+
+## Key Insights
+- Revenue trend analysis
+- Expense breakdown
+- Loss period analysis
+- Debt performance
+
+## Dashboard Preview
+(Add screenshot images here)
+
+## Conclusion
+This project helps understand how IndiGo managed growth, debt, and profitability.
